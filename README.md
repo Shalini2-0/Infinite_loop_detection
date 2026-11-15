@@ -130,12 +130,7 @@ This theoretical limitation explains why the prototype focuses on selected loop 
 - Develop a simple graphical user interface.
 - Expand the range of test cases.
 
-## 👩‍💻 Author
 
-**Shalini R**  
-**Register Number:** RA2411026050234
-
-**Course:** 21CSC301T – Formal Language and Automata
 
 ## 🏁 Conclusion
 
